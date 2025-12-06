@@ -10,3 +10,17 @@ MANFAAT GENERIC
 
 contoh di file :
 lib\not_generic.dart
+lib\generic.dart
+
+
+## GENERIC CLASS
+
+- generic class adalah class yang memiliki parameter type
+- tidak ada ketentuan dalam pembuatan generic parameter type, namun biasanya kebanyakan orang menggunakan 1 karakter sebagai generic parameter type
+- nama generic parameter type yang biasa digunakan adalah :
+ - E - Element (biasa digunakan di collection atau strutur data)
+ - K - Key
+ - N - Number
+ - T - Type
+ - V - Value
+ - S,U,V etc.-2nd, 3rd, 4th types
