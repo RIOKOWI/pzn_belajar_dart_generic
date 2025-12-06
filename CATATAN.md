@@ -42,3 +42,6 @@ lib\generic_class_multiple_type.dart
 - kita juga bisa menggunakan generic parameter type di function
 - generic parameter type yang kita deklrasikan di function, hanya bisa diakses di function tersebut, tidak bisa digunakan di luar function
 - ini cocok jika kita ingin membuat generic function, tanpa harus mengubah deklarasi class
+
+
+contoh di file :
