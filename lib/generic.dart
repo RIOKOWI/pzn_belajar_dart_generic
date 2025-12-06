@@ -1,5 +1,3 @@
-import 'dart:ffi';
-
 class Gen<T> { // parameters yang belum di tentukan tipe data nya
   T? gen;
 }
