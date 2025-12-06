@@ -1,4 +1,4 @@
-class Pair<K, V>{
+class Pair<K, V>{ // multiple parameter type
   K satu;
   V dua;
 
