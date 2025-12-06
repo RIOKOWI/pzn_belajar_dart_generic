@@ -25,4 +25,11 @@ lib\generic.dart
  - V - Value
  - S,U,V etc.-2nd, 3rd, 4th types
 
+MULTIPLE PARAMETER TYPE
+- parameter type di generic class boleh lebih dari satu
+- namun harus menggunakan type berbeda
+- ini sangat berguna ketika ingin membuat generic parameter type yang banyak
+
 contoh di file :
+lib\data\mydata.dart
+lib\generic_class.dart
