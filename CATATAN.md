@@ -33,3 +33,5 @@ MULTIPLE PARAMETER TYPE
 contoh di file :
 lib\data\mydata.dart
 lib\generic_class.dart
+lib\data\pair.dart
+lib\generic_class_multiple_type.dart
