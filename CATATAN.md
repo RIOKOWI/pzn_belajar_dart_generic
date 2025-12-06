@@ -45,3 +45,5 @@ lib\generic_class_multiple_type.dart
 
 
 contoh di file :
+lib\helper\array_helper.dart
+lib\generic_function.dart
