@@ -35,3 +35,15 @@ lib\data\mydata.dart
 lib\generic_class.dart
 lib\data\pair.dart
 lib\generic_class_multiple_type.dart
+
+## GENERIC FUNCTION
+
+- generic parameter type tidak hanya bisa digunakan pada class
+- kita juga bisa menggunakan generic parameter type di function
+- generic parameter type yang kita deklrasikan di function, hanya bisa diakses di function tersebut, tidak bisa digunakan di luar function
+- ini cocok jika kita ingin membuat generic function, tanpa harus mengubah deklarasi class
+
+
+contoh di file :
+lib\helper\array_helper.dart
+lib\generic_function.dart
