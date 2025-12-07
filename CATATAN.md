@@ -78,3 +78,4 @@ NOTE : tidak direkomendasikan untuk digunakan
 - namun hati-hati ketika melakukan covariant, karena jika sampai salah mengubah datanya, maka akan terjadi error pada saat runtime, tidak akan terdeteksi ketika proses compile.
 
 contoh di file :
+lib\covariant.dart
