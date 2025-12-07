@@ -58,3 +58,13 @@ lib\generic_function.dart
 contoh di file :
 lib\data\number_data.dart
 lib\bounded_parameter_type.dart
+
+## DYNAMIC
+
+- kadang ada kasus kita tidak peduli dengan generic parameter type pada object
+- misal kita hanya ingin print data T, tidak peduli apapun.
+- jika kita mengalami kasus seperti ini, kita bisa menggunakan dynamic
+- dynamic bisa dibuat dengan menghapus tipe data generic nya.
+- semua tipe data generic otomatis menjadi tipe data dynamic ketika menggunakan fitur ini.
+
+contoh di file ;
