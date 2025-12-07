@@ -70,3 +70,11 @@ lib\bounded_parameter_type.dart
 contoh di file :
 lib\data\mydata.dart
 lib\dynamic.dart
+
+## COVARIANT
+
+NOTE : tidak direkomendasikan untuk digunakan
+- covariant artinya kita bisa melakukan subtitusi subtype (child) dengan supertype (parent)
+- namun hati-hati ketika melakukan covariant, karena jika sampai salah mengubah datanya, maka akan terjadi error pada saat runtime, tidak akan terdeteksi ketika proses compile.
+
+contoh di file :
