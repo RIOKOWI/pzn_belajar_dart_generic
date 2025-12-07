@@ -56,3 +56,5 @@ lib\generic_function.dart
 - secara default, constraint type untuk generic parameter type adalah object, sehingga semua tipe data bisa digunakan.
 
 contoh di file :
+lib\data\number_data.dart
+lib\bounded_parameter_type.dart
