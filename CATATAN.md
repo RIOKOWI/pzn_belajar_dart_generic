@@ -47,3 +47,12 @@ lib\generic_class_multiple_type.dart
 contoh di file :
 lib\helper\array_helper.dart
 lib\generic_function.dart
+
+## BOUNDED TYPE PARAMETER
+
+- kadang kita ingin membatasi data yang boleh digunakan di generic parameter type
+- kita bisa menambahkan constraint di generic parameter type dengan menyebutkan tipe yang diperbolehkan
+- secara otomatis, type data yang bisa digunakan adalah type yang sudah kita sebutkan, atau class-class turunannya.
+- secara default, constraint type untuk generic parameter type adalah object, sehingga semua tipe data bisa digunakan.
+
+contoh di file :
