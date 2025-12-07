@@ -83,6 +83,7 @@ lib\covariant.dart
 ## TYPE CHECKING
 
 - generic di dart mendukung Type Checking,  berbeda dengan Java yang menggunakan fitur type erasure, yang artinya ketika di compile, informasi generic nya dihilangkan. pada dart, semua informasi generic tetap ada
-- oleh karena itu kita bisa melakukan Type Checking di dart walaupun sampai ke level parameter type nya
+- oleh karena itu kita bisa melakukan Type Checking di dart walaupun sampai ke level parameterized type nya
 
 contoh di file :
+lib\type_checking.dart
