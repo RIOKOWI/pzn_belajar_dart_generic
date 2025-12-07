@@ -67,4 +67,6 @@ lib\bounded_parameter_type.dart
 - dynamic bisa dibuat dengan menghapus tipe data generic nya.
 - semua tipe data generic otomatis menjadi tipe data dynamic ketika menggunakan fitur ini.
 
-contoh di file ;
+contoh di file :
+lib\data\mydata.dart
+lib\dynamic.dart
